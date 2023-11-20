@@ -16,11 +16,11 @@ The plugin selects what the crown is responsible for, depending on the state of 
 
 | Icon                                                                                         | Сondition                                            | Turn left                                   | Turn right                              |
 |----------------------------------------------------------------------------------------------|------------------------------------------------------|---------------------------------------------|-----------------------------------------|
-| [Scale](./LogiOptionsPlugin~/4ddb3e7f-0971-4b68-a2eb-90b29fc9bbb8/Gallery/scale.png)         | Left mouse button is pressed on selected game object | Decrease game object scale                  | Increase game object scale              |
-| [Profiler](./LogiOptionsPlugin~/4ddb3e7f-0971-4b68-a2eb-90b29fc9bbb8/Gallery/profiler.png)   | Mouse is over profiler window                        | Select previous profiler frame              | Select next profiler frame              |
-| [Animation](./LogiOptionsPlugin~/4ddb3e7f-0971-4b68-a2eb-90b29fc9bbb8/Gallery/animation.png) | The animation window is opened and clip is selected  | Move playback head to the previous keyframe | Move playback head to the next keyframe |
-| [Project](./LogiOptionsPlugin~/4ddb3e7f-0971-4b68-a2eb-90b29fc9bbb8/Gallery/project.png)     | File or folder selected                              | Select previous file/folder                 | Select next file/folder                 |
-| [Hierarchy](./LogiOptionsPlugin~/4ddb3e7f-0971-4b68-a2eb-90b29fc9bbb8/Gallery/hierarchy.png) | By default                                           | Select previous hierarchy object            | Select next hierarchy object            |
+| ![Scale](./LogiOptionsPlugin~/4ddb3e7f-0971-4b68-a2eb-90b29fc9bbb8/Gallery/scale.png)         | Left mouse button is pressed on selected game object | Decrease game object scale                  | Increase game object scale              |
+| ![Profiler](./LogiOptionsPlugin~/4ddb3e7f-0971-4b68-a2eb-90b29fc9bbb8/Gallery/profiler.png)   | Mouse is over profiler window                        | Select previous profiler frame              | Select next profiler frame              |
+| ![Animation](./LogiOptionsPlugin~/4ddb3e7f-0971-4b68-a2eb-90b29fc9bbb8/Gallery/animation.png) | The animation window is opened and clip is selected  | Move playback head to the previous keyframe | Move playback head to the next keyframe |
+| ![Project](./LogiOptionsPlugin~/4ddb3e7f-0971-4b68-a2eb-90b29fc9bbb8/Gallery/project.png)     | File or folder selected                              | Select previous file/folder                 | Select next file/folder                 |
+| ![Hierarchy](./LogiOptionsPlugin~/4ddb3e7f-0971-4b68-a2eb-90b29fc9bbb8/Gallery/hierarchy.png) | By default                                           | Select previous hierarchy object            | Select next hierarchy object            |
 
 
 ## Development

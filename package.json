@@ -1,0 +1,9 @@
+{
+  "name": "com.r1noff.unitycraft",
+  "version": "1.0.0",
+  "displayName": "UnityCraft",
+  "description": "Plugin for Logitech craft keyboard support",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": ""
+  }
+}

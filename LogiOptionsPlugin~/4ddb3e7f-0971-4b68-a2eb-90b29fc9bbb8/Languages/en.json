@@ -1,0 +1,24 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "hierarchy",
+            "value": "Hierarchy"
+        },
+        {
+            "ID": "project",
+            "value": "Project"
+        },
+        {
+            "ID": "animation",
+            "value": "Animation"
+        },
+        {
+            "ID": "profiler",
+            "value": "Profiler"
+        },
+        {
+            "ID": "scale",
+            "value": "Scale"
+        }
+    ]
+}

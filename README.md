@@ -7,7 +7,7 @@ Unity plugin that adds Logitech Craft keyboard support to the editor
 1. [Enable keyboard developer mode](https://github.com/Logitech/logi_craft_sdk/blob/master/samples/WinFormsCrownSample/README.md#4-enable-developer-mode)
 2. Click + inside editor package manager window and select "Add package from git URL..."
 3. Enter `https://github.com/r1noff/UnityCraft.git` and click add button
-4. After package successfully installs go to `Library/PackageCache/com.r1noff.unitycraft@1.0.0` and run `InstallPlugin.bat` It will create symlink of manifest folder into the LogiOptionsPlugins folder (you also can just copy it manually, [for details see official SDK documentation](https://github.com/Logitech/logi_craft_sdk/blob/master/documentation/Craft_Crown_SDK.md))
+4. After package successfully installs go to `Library/PackageCache/com.r1noff.unitycraft@*` and run `InstallPlugin.bat` as administrator. It will create symlink of manifest folder into the LogiOptionsPlugins folder (or you can just copy it manually, [for details see official SDK documentation](https://github.com/Logitech/logi_craft_sdk/blob/master/documentation/Craft_Crown_SDK.md))
 5. Run  `RestartLogitechOptions.bat` or restart logitech options app by yourself
 
 ## Usage

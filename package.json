@@ -4,6 +4,6 @@
   "displayName": "UnityCraft",
   "description": "Plugin for Logitech craft keyboard support",
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": ""
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
   }
 }
